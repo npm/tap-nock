@@ -30,7 +30,7 @@
     "tap": "^16.0.1"
   },
   "dependencies": {
-    "mkdirp": "^1.0.4",
+    "mkdirp": "^2.1.3",
     "nock": "^13.2.4"
   },
   "files": [
